@@ -1,1 +1,1 @@
-yntaxError: Unexpected identifier 'Code'"
+syntaxError: Unexpected identifier 'Code'"
